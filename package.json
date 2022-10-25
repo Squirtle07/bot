@@ -1,0 +1,9 @@
+"scripts": {
+    "start": "index.js"
+}
+{
+  "dependencies": {
+    "firebase": "^9.9.1",
+    "telegraf": "^4.8.5"
+  }
+}
